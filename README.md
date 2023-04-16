@@ -1,8 +1,8 @@
 <div align="center">
-<a href="https://stellar.org"><img alt="Stellar" src="https://github.com/stellar/.github/raw/master/stellar-logo.png" width="558" /></a>
+<a href="https://stellar.org"><img alt="Stellar" src="https://github.com/FaceBlockTeam/faceBlockChain/blob/a368e2ab01ccfb085ce00ebe3cbe83c3b0d4e2fa/faceblock500500.jpg" width="558" /></a>
 <br/>
-<strong>Creating equitable access to the global financial system</strong>
-<h1>Stellar Core</h1>
+<strong> Reconstructing Human Reputation Data Wealth of Social Capital </strong>
+<h1>FaceBlock Core</h1>
 </div>
 <p align="center">
 <a href="https://github.com/stellar/stellar-core/actions"><img alt="Build Status" src="https://github.com/stellar/stellar-core/workflows/.github/workflows/build.yml/badge.svg?branch=auto" /></a>
