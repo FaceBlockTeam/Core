@@ -9,7 +9,7 @@
 </p>
 
 FaceBlock-core is a replicated state machine that maintains a local copy of a cryptographic ledger and processes transactions against it, in consensus with a set of peers.
-It implements the PoAI consensus base on chatGPT AI model withFederated Learning Privacy Protection Technology
+It implements the [PoAI consensus](https://github.com/FaceBlockTeam/research/blob/main/PoAI%20%E5%85%B1%E8%AF%86%E7%AE%97%E6%B3%95%E6%98%AF%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8ESCP%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%85%AC%E9%93%BE%E5%85%B1%E8%AF%86%E7%AE%97%E6%B3%95.docx) base on chatGPT AI model withFederated Learning Privacy Protection Technology
  and the[Stellar Consensus Protocol](https://github.com/stellar/stellar-core/blob/master/src/scp/readme.md), a _federated_ consensus protocol 
 It is written in C++14 and runs on Linux, OSX and Windows.
 Learn more by reading the [overview document](https://github.com/stellar/stellar-core/blob/master/docs/readme.md).
